@@ -1,0 +1,6 @@
+file3
+dunno
+wut
+2
+write
+printf("Files in Directory are:\n");
